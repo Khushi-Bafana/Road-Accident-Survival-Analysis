@@ -1,5 +1,5 @@
 # Road Accident Survival Analysis
-![Survival Probability Across Ages and Speeds]()
+![Survival Probability Across Ages and Speeds](https://github.com/Khushi-Bafana/Road-Accident-Survival-Analysis/blob/main/Survival%20Probability%20Across%20Ages%20and%20Speeds.png)
 ## Objective
 The objective of this project is to analyze various factors influencing survival in road accidents and develop a predictive model that estimates the probability of survival. By leveraging demographic, behavioral, and situational data, the analysis aims to identify key contributors to survival rates and provide insights for improving road safety measures.
 
