@@ -63,12 +63,6 @@ The objective of this project is to analyze various factors influencing survival
   - Enforcing stricter speed limits in high-risk zones.
 - Visualized important factors affecting survival using SHAP values, feature importance plots, and decision boundaries.
 
-### 7. Model Deployment (Optional)
-- Prepared the model for deployment using Flask/Django.
-- Created an API endpoint to predict survival probability based on input parameters.
-- Developed a simple web-based user interface to allow users to input accident details and receive survival predictions.
-- Explored cloud deployment options using AWS/GCP for scalability.
-
 ## Conclusion
 This project successfully analyzed accident survival factors and developed a predictive model with meaningful insights. The findings provide actionable recommendations for improving road safety. Future enhancements can include integrating real-time accident data, using advanced deep learning models, and refining feature selection for better accuracy.
 
